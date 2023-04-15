@@ -1,6 +1,6 @@
-## Eu sou o Gabriel! 
+## Meu nome é Gabriel! 
 
-conteúdo de descrição!!
+eu tenho 23 anos e sou bacharel em ciencia da computação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
