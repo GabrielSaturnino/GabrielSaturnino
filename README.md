@@ -11,7 +11,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" src="https://github.com/GabrielSaturnino/GabrielSaturnino/blob/main/img/bg-img.gif" height="300" width="40%" />
+    <img align="left" src="https://github.com/GabrielSaturnino/GabrielSaturnino/blob/main/img/bg-img2.webp" height="300" width="40%" />
     <h1 align="center">Melhores Tecnologias <br>
       <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
