@@ -40,24 +40,14 @@
     <!-- COLUNA DIREITA -->
     <td valign="top" width="50%">
       <div align="center">
-        <h3>🚀 Projetos em Destaque</h3>
-        <a href="https://github.com/GabrielSaturnino/seu-projeto-top" target="_blank">
-          <img src="https://img.shields.io/badge/-Sistema%20X%20%7C%20React-blue?style=flat-square" alt="Sistema X"/>
-        </a>
-        <br>
-        <sub>Sistema de gestão de tarefas, foco em usabilidade e performance. (React)</sub>
-        <br>
-        <a href="https://github.com/GabrielSaturnino/outro-projeto-incrivel" target="_blank">
-          <img src="https://img.shields.io/badge/-API%20Financeira%20%7C%20Node.js-green?style=flat-square" alt="API Financeira"/>
-        </a>
-        <br>
-        <sub>API de controle financeiro, Node.js + MongoDB.</sub>
-        <hr width="80%" color="#e0e0e0">
         <h3>📊 GitHub Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=GabrielSaturnino&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&hide_border=true&hide=prs,issues,contribs&card_width=340" height="120"/><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaturnino&layout=compact&theme=transparent&hide_border=true&card_width=340" height="120"/>
+        <hr width="80%" color="#e0e0e0">
+        <i>
+          “Soluções simples para problemas complexos, sempre com paixão e propósito.”
+        </i>
       </div>
     </td>
   </tr>
 </table>
-
