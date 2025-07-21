@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack • Bacharel em Ciência da Computação • 24 anos</b>
+  <b>Desenvolvedor Fullstack • Bacharel em Ciência da Computação • 25 anos</b>
 </p>
 
 <div align="center">
@@ -51,10 +51,4 @@ Meu foco é entregar código limpo, performático e soluções que realmente faz
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-772321219/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>“A tecnologia move o mundo. Bora codar o futuro?”</i>
 </p>
