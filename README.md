@@ -1,54 +1,68 @@
-<h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
+<table border="0" width="100%">
+  <tr>
+    <!-- COLUNA ESQUERDA -->
+    <td valign="top" width="50%">
+      <div align="center">
+        <img src="https://github.com/GabrielSaturnino/GabrielSaturnino/blob/main/img/bg-img2.webp" alt="Gabriel Saturnino" height="100"/>
+        <h2>Gabriel Saturnino</h2>
+        <b>Desenvolvedor Fullstack</b><br>
+        Bacharel em Ciência da Computação<br>
+        <sub>25 anos • MG, Brasil</sub>
+        <hr width="60%" color="#cccccc">
+        <i>
+          Transformo café em código robusto.<br>
+          Curioso, colaborativo e sempre buscando inovação.<br>
+          <b>Vamos criar soluções que realmente mudam o jogo?</b>
+        </i>
+        <hr width="60%" color="#cccccc">
+        <b>Stack principal:</b><br>
+        <img alt="JavaScript" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+        <img alt="TypeScript" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript"/>
+        <img alt="React" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
+        <img alt="HTML5" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
+        <img alt="CSS3" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
+        <img alt="Java" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"/>
+        <br>
+        <img src="https://img.shields.io/badge/-Clean%20Code-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Agile-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Teamwork-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Continuous%20Learning-yellow?style=flat-square" />
+        <hr width="60%" color="#cccccc">
+        <b>Contato:</b><br>
+        <a href="mailto:gabrielsaturnino4@gmail.com" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+        <a href="https://www.linkedin.com/in/gabriel-rodrigues-772321219/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </div>
+    </td>
+    <!-- COLUNA DIREITA -->
+    <td valign="top" width="50%">
+      <div align="center">
+        <h3>🚀 Projetos em Destaque</h3>
+        <a href="https://github.com/GabrielSaturnino/seu-projeto-top" target="_blank">
+          <img src="https://img.shields.io/badge/-Sistema%20X%20%7C%20React-blue?style=flat-square" alt="Sistema X"/>
+        </a>
+        <br>
+        <sub>Plataforma para gestão de tarefas em React.</sub>
+        <br>
+        <a href="https://github.com/GabrielSaturnino/outro-projeto-incrivel" target="_blank">
+          <img src="https://img.shields.io/badge/-API%20Financeira%20%7C%20Node.js-green?style=flat-square" alt="API Financeira"/>
+        </a>
+        <br>
+        <sub>API de controle financeiro, Node.js + MongoDB.</sub>
+        <hr width="60%" color="#cccccc">
+        <h3>📊 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=GabrielSaturnino&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&hide_border=true&hide=prs,issues,contribs&card_width=320" height="120"/><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaturnino&layout=compact&theme=transparent&hide_border=true&card_width=320" height="120"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>Desenvolvedor Fullstack • Bacharel em Ciência da Computação • 25 anos</b>
-</p>
+<br>
 
-<div align="center">
-  <img src="https://github.com/GabrielSaturnino/GabrielSaturnino/blob/main/img/bg-img2.webp" alt="Banner Gabriel Saturnino" height="200" />
-</div>
-
----
-
-<h2 align="center">🚀 Sobre mim</h2>
-
-<p align="center">
-Sou apaixonado por tecnologia, inovação e desafios que movem o mundo!<br>
-Meu foco é entregar código limpo, performático e soluções que realmente fazem diferença. Curto trabalhar em equipe, aprender algo novo todo dia e compartilhar conhecimento sempre que posso.<br>
-<strong>Bora criar o futuro juntos?</strong>
-</p>
-
----
-
-<h2 align="center">🛠️ Principais Tecnologias</h2>
-
-<p align="center">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" />
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" />
-  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" />
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" />
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" />
-  <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" />
-</p>
-
----
-
-<h2 align="center">📊 Estatísticas GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSaturnino&show_icons=true&theme=transparent" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSaturnino&layout=compact&theme=transparent" alt="Top Langs" height="150"/>
-</p>
-
----
-
-<h2 align="center">🌎 Onde me encontrar</h2>
-
-<p align="center">
-  <a href="mailto:gabrielsaturnino4@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-rodrigues-772321219/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<p align="center"><i>
+"Soluções simples para problemas complexos, sempre com paixão e propósito."
+</i></p>
